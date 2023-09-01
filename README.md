@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kiiyukia =Kariuki
+- 👋 Hi, I’m @KiiyukiaKariuki
 - 👀 I’m interested in become a data engineering professional
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on data engineering projects
